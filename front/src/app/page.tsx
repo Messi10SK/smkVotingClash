@@ -5,7 +5,7 @@ export default function page() {
   return (
     <div>
       <h1 className='text-blue-500'>I am Home Page</h1>
-      <Button>I am shadcn button hii</Button>
+      <Button>I am shadcn button hii gogya</Button>
     </div>
   )
 }
