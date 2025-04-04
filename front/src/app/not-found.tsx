@@ -5,7 +5,7 @@ export default function NotFound() {
     <div className='text-9xl text-center '>
       <h2 className='m-3'>Not Found 404 error</h2>
       <p className='m-3'>Could not find requested resource</p>
-      <Link href="/">Return Home</Link>
+      <Link href="/"> hReturn Home</Link>
     </div>
   )
 }
